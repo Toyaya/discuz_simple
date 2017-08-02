@@ -1,0 +1,15 @@
+<?php
+
+?>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+ <form action="adminProcess.php" method="post">
+    ’À∫≈:<input type="text" name="txtid"/><br>
+    √‹¬Î:<input type="password" name="txtpwd"/><br><br>
+   <input type="submit" name="sub" value="µ«¬º"/>
+ </form>
+</body>
+</html>
